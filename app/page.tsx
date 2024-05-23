@@ -41,7 +41,7 @@ export default function Home() {
    <div className="w-full font-serif mx-auto p-2">
 
     <div className="text-center text-3xl font-bold mb-3 text-green-500">
-      Geeksforgeeks
+      ForgeMaster
     </div>
 
     <div className="text-center text-2xl font-bold mb-2 ">
